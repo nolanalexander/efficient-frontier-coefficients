@@ -4,9 +4,9 @@ This project contains the code for my research in Efficient Frontier Coefficient
 The project also includes code for various avenues of research that were not fully explored including feature selection, options, and reinforcement learning. The code for these unfinished research areas may not be fully functional.
 
 ## Publications
-1. [Asset allocation using a Markov process of clustered efficient frontier coefficients states](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vm_4mhoAAAAJ&authuser=1&citation_for_view=vm_4mhoAAAAJ:2osOgNQ5qMEC) in Elsevier
-2. [Forecasting Tangency Portfolios and Investing in the Minimum Euclidean Distance Portfolio to Maximize Out-of-Sample Sharpe Ratios](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vm_4mhoAAAAJ&authuser=1&citation_for_view=vm_4mhoAAAAJ:9yKSN-GCB0IC) in MDPI
-3. [Using Machine Learning to Forecast Market Direction with Efficient Frontier Coefficients](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vm_4mhoAAAAJ&authuser=1&citation_for_view=vm_4mhoAAAAJ:IjCSPb-OGe4C) in PMR
+1. [Asset allocation using a Markov process of clustered efficient frontier coefficients states](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vm_4mhoAAAAJ&authuser=1&citation_for_view=vm_4mhoAAAAJ:2osOgNQ5qMEC)
+2. [Forecasting Tangency Portfolios and Investing in the Minimum Euclidean Distance Portfolio to Maximize Out-of-Sample Sharpe Ratios](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vm_4mhoAAAAJ&authuser=1&citation_for_view=vm_4mhoAAAAJ:9yKSN-GCB0IC)
+3. [Using Machine Learning to Forecast Market Direction with Efficient Frontier Coefficients](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vm_4mhoAAAAJ&authuser=1&citation_for_view=vm_4mhoAAAAJ:IjCSPb-OGe4C)
 
 ## File Structure and Descriptions
 
